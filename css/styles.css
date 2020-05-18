@@ -134,14 +134,13 @@ a:hover{
 	background-color:#2dabf9;
 	-webkit-border-radius:11px;
 	-moz-border-radius:11px;
-	border-radius:11px;
-	border:1px solid #0b0e07;
+	border-radius: 20px;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Arial;
 	font-size:15px;
-	padding:10px 12px;
+	padding:0px 10px;
 	text-decoration:none;
 }
 .btn:hover {
@@ -156,5 +155,15 @@ a:hover{
 }
 .btn:active {
 	position:relative;
-	top:1px;
+	top:0px;
+}
+
+.linkedin{
+  height: 30px;
+  width: 30px;
+}
+
+.twitter{
+  height: 30px;
+  width: 30px;
 }
